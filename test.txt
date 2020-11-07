@@ -1,5 +1,0 @@
-111111
-这是要合并的内容
-这是master上的内容,这是mergedemo分支上要提交的内容
-version1
-versoin2
